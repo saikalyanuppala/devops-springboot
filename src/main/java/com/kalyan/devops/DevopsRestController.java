@@ -10,6 +10,6 @@ public class DevopsRestController {
 
 	@GetMapping("/first")
 	public String devopsFirst() {
-		return "First rest controller for devops";
+		return "First rest controller for devops war";
 	}
 }
